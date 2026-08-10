@@ -16,6 +16,30 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+| AI Assistant | Home Page | Dashboard |
+|:---:|:---:|:---:|
+| ![AI Assistant](screenshots/TBS%20AI%20ASSISTANT.png) | ![Home](screenshots/Home%20Page.png) | ![Dashboard](screenshots/Dashboard.png) |
+
+| Timetables | GPA Calculator | Clubs |
+|:---:|:---:|:---:|
+| ![Timetables](screenshots/Timetables.png) | ![GPA](screenshots/GPA%20Calculator.png) | ![Clubs](screenshots/Clubs.png) |
+
+| Student Guide | Media Gallery | Restaurant |
+|:---:|:---:|:---:|
+| ![Guide](screenshots/Student%20Guide.png) | ![Media](screenshots/Media.png) | ![Restaurant](screenshots/TBS%20Restaurant.png) |
+
+| Login | Timetable Builder |
+|:---:|:---:|
+| ![Login](screenshots/Login%20page.png) | ![Builder](screenshots/Timetables%20builder.png) |
+
+</div>
+
+---
+
 ## 🎯 Project Overview
 
 TBS Portal is a full-stack web application serving **600+ students** at Tunis Business School. It provides a centralized platform for academic resources, administrative services, and an AI-powered assistant that answers student questions using official university documents.
@@ -23,8 +47,11 @@ TBS Portal is a full-stack web application serving **600+ students** at Tunis Bu
 ### Key Metrics
 
 - 🎓 **600+** Active student users
+-  **5** Knowledge sources (Handbook, Guide, Study, Decrees, Website)
 -  **RAG-powered** AI assistant with anti-hallucination safeguards
 - ⚡ **<3s** Response time for AI queries
+- 💰 **$0.0005** Cost per AI query
+-  **37** Synonym groups for query expansion
 
 ---
 
