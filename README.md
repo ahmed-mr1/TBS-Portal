@@ -47,11 +47,9 @@ TBS Portal is a full-stack web application serving **600+ students** at Tunis Bu
 ### Key Metrics
 
 - 🎓 **600+** Active student users
--  **5** Knowledge sources (Handbook, Guide, Study, Decrees, Website)
 -  **RAG-powered** AI assistant with anti-hallucination safeguards
+-  **5** Knowledge sources (Handbook, Guide, Study, Decrees, Website)
 - ⚡ **<3s** Response time for AI queries
-- 💰 **$0.0005** Cost per AI query
--  **37** Synonym groups for query expansion
 
 ---
 
