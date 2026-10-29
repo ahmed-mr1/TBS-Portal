@@ -42,7 +42,7 @@
 
 ## 🎯 Project Overview
 
-TBS Portal is a full-stack web application serving **600+ students** at Tunis Business School. It provides a centralized platform for academic resources, administrative services, and an AI-powered assistant that answers student questions using official university documents.
+TBS Portal is a full-stack web application serving **1200+ students** at Tunis Business School. It provides a centralized platform for academic resources, administrative services, and an AI-powered assistant that answers student questions using official university documents.
 
 ### Key Metrics
 
