@@ -46,7 +46,7 @@ TBS Portal is a full-stack web application serving **1200+ students** at Tunis B
 
 ### Key Metrics
 
-- 🎓 **800+** Registered student users
+- 🎓 **1000+** Registered student users
 -  **RAG-powered** AI assistant with anti-hallucination safeguards
 -  **5** Knowledge sources (Handbook, Guide, Study, Decrees, Website)
 - ⚡ **<3s** Response time for AI queries
